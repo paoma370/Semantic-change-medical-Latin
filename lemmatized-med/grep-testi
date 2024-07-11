@@ -1,0 +1,2 @@
+grep -om 1 'accidens\|aegrotus\|angina\|aranea\|caninus\|colis\|caulis\|commotio\|elleborosus\|flemina\|folliculus\|fortitudo\|frenum\|gravedo\|lippitudo\|luscitio\|mappa\|mentagra\|mola\|obstetrix\|opstetrix\|panicula\|papilla\|patella\|pecten\|pernio\|pulchritudo\|scrotum\|speculum\|tibia\|tittina\|titina\|testis\|tonsilla\|tunicula\|ubuppa' *final.txt
+
